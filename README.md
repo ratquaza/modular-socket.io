@@ -1,5 +1,5 @@
 # modular-socket.io
-The modular-socket.io package can be used to load events for a (socket.io)[https://socket.io] WebSocket from a given directory.
+The modular-socket.io package can be used to load events for a [socket.io](https://socket.io) WebSocket from a given directory.
 
 ## Usage example:
 
