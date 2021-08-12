@@ -1,7 +1,7 @@
 {
   "name": "modular-socket.io",
   "version": "1.0.0",
-  "description": "Handle socket.io 'on' events through module files in a given directory",
+  "description": "Handle socket.io 'on' events through module files in a given directory.",
   "main": "modular.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
